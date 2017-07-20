@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none; }
+
+.clearfix {
+  display: block;
+  clear: both;
+  content: ""; }
+
+header .column {
+  background: #EEEEEE; }
+  header .column .column-box {
+    width: 1226px;
+    margin: 0 auto; }
+    header .column .column-box img {
+      vertical-align: top; }
+header .nav {
+  background: #333333; }
+  header .nav .nav-box {
+    width: 1226px;
+    height: 40px;
+    margin: 0 auto; }
+    header .nav .nav-box ul a {
+      text-decoration: none;
+      color: #B0B0B0; }
+    header .nav .nav-box ul li {
+      float: left;
+      padding: 0 8px 0 9px;
+      font-size: 11px;
+      color: #B0B0B0;
+      border-right: 1px solid #424242;
+      margin-top: 14px; }
+    header .nav .nav-box ul .li-fles {
+      padding-left: 0; }
+    header .nav .nav-box ul .li-lase {
+      border: 0; }
+    header .nav .nav-box .box-ul-2 {
+      float: right; }
+    header .nav .nav-box .gouwu {
+      float: right;
+      width: 120px;
+      height: 40px;
+      line-height: 40px;
+      background: #424242;
+      text-align: center;
+      font-size: 11px;
+      color: #B0B0B0; }
+
+/*# sourceMappingURL=index1.css.map */
